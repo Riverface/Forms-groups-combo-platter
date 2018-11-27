@@ -1,0 +1,59 @@
+.favcol
+{
+}
+.survey
+{
+  border: 1px solid;
+  border-radius: 10px;
+  width: 350px;
+  margin-right: 500px;
+  top:100px;
+  float:left;
+  position:fixed;
+}
+.theContent
+{
+  display: block;
+  position: static;
+
+}
+.Adb
+{
+  left: 400px;
+  width: 350px;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 400px;
+  position:static;
+}
+.adbentry
+{
+border: 1px solid;
+border-radius: 10px;
+width: 300px;
+
+}
+.mktplc
+{
+
+
+  width: 350px;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-left: 400px;
+  margin-top: 100px;
+  position:static;
+}
+.totals
+{
+
+}
+#receipt
+{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
